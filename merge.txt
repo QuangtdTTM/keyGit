@@ -8,3 +8,5 @@ xung dot
 
 pull require
  git flow
+
+ git flow 2
