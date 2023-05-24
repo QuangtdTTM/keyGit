@@ -4,3 +4,6 @@ merge 22
 
 conflict
 xung dot
+
+
+pull require
